@@ -1,0 +1,53 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+img{
+	opacity: 0.8;
+}
+
+
+
+#container{
+	position: relative;
+}
+
+#text{
+	position: absolute;
+	top: 30%;
+	width: 100%;
+	text-align: center;
+
+	
+	
+}
+
+#text h2{
+	color: #ffffff;
+	font-family: Century Gothic, sans-serif;
+	font-size: 16;
+	font-style: bold;
+}
+
+#text h1{
+	color: #ffffff;
+	font-style: bold;
+	font-family: verdana;
+}
+
+#text p{
+	color: #ffffff;
+	font-family: Century Gothic, sans-serif;
+	font-size: 16;
+	font-style: bold italic ;
+
+}
+
+.me{
+	position: relative;
+	top: 200px;
+	right: 100px;
+	background: pink;
+}
+
